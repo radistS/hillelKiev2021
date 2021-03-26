@@ -1,0 +1,17 @@
+package com.hillel.lesson_06.ex;
+
+public class Ex4 {
+    public static void main(String[] args) {
+        Integer i = 0;
+        for (i = 0; i < 10; ) {
+            i = ++i;
+//            System.out.println("i = " +  i);
+//            i++;
+            System.out.println("Hello World i : " + i );
+        }
+
+        for (int f = 0;;){
+            System.out.println("aaaa");
+        }
+    }
+}
