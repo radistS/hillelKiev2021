@@ -7,11 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="unitTests" />
         <module name="mvnTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mvnTest" target="11" />
+      <module name="unitTests" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,6 +1,5 @@
 package com.mvn.test;
 
-
 import java.util.Scanner;
 
 // 1 + 2
