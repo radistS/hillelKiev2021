@@ -18,8 +18,10 @@ public class Task04 {
 
         String[] split = text.split("\\. ");
 
-        if (number >= split.length)
-            throw new RuntimeException("Text shotter...");
+//        if (number >= split.length)
+//            throw new RuntimeException("Text shotter...");
+
+        assert number >= split.length : "ssddssd";
 
         List<String> collect = Arrays.stream(split[number - 1].split(" "))
 //                .filter(s -> s.length() == worldLength)
