@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/hillel/hillel.iml" filepath="$PROJECT_DIR$/hillel/hillel.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hillelKiev2021.iml" filepath="$PROJECT_DIR$/.idea/hillelKiev2021.iml" />
       <module fileurl="file://$PROJECT_DIR$/hillel/mvnTest/mvnTest.iml" filepath="$PROJECT_DIR$/hillel/mvnTest/mvnTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hillel/pars/pars.iml" filepath="$PROJECT_DIR$/hillel/pars/pars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hillel/restExample/restExample.iml" filepath="$PROJECT_DIR$/hillel/restExample/restExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/hillel/unitTests/unitTests.iml" filepath="$PROJECT_DIR$/hillel/unitTests/unitTests.iml" />
     </modules>
   </component>
